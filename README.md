@@ -6,6 +6,7 @@ Here is a video demo for the game: https://connecthkuhk-my.sharepoint.com/:v:/g/
 Some screenshots:
 
 Registration:
+
 <img width="216" alt="Screenshot 2023-05-31 at 9 14 34 AM" src="https://github.com/pranayperiwal/24Poker-Multiplayer/assets/56786002/a7da4c7c-d5ae-48a1-9c34-a413fdcb3a1a">
 
 Login:
